@@ -6,6 +6,17 @@ Das Programm soll beispielhaft die Nutzung der Pointerarithmetik in einem C-Prog
 ## Kompilation
 Das Programm kann einfach mit einem beliebigen Compiler kompiliert werden. Ich habe gcc verwendet.
 
-Beispiel : `gcc main.c -o main.elf`
+Beispiel : 
+```
+gcc main.c -o main.elf
+```
+
+## Ausführung
+Das Programm kann einfach mit dem Befehl zum ausführen von Programmen gestartet werden.
+
+Beispiel für Ubuntu/WSL:
+```
+./main.elf
+```
 
 
